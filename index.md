@@ -14,9 +14,7 @@ Advisor: [Prof. Yang Chen](https://chenyang03.wordpress.com/)
 ## Research
 Zihang Lin has been a research assistant in the Mobile Systems and Networking (MSN) group since 2019 under the guidance of [Prof. Yang Chen](https://chenyang03.wordpress.com/). His research interests include social network analysis, social computing, and machine learning. 
 
-
 He previously helped develop an open source graph processing library [EasyGraph](https://easy-graph.github.io/).
-
 
 His current research focuses on structural hole theory and its application in computer science, such as the analysis of academic performance and cooperative relationship between structural hole scholars and opinion leaders.
 
@@ -34,6 +32,7 @@ To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
 <em>Second Prize</em>, Scholarship for Students in Honor Class, 2020<br>
 <em>Third Prize</em>, Scholarship for OutStanding Students, 2019<br>
 <em>Bronze Medal</em>, National Olympiad in Informatics, National Finals, Jul. 2017<br>
+<em>Bronze Medal</em>, Asia Pacific Informatics Olympiad, May 2017<br>
 <em>First Prize</em>, National Olympiad in Informatics in Provinces. 2017<br>
 
 
