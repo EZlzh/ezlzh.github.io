@@ -1,27 +1,13 @@
-# Welcome to Zihang Lin's Homepage
-Zihang Lin is a junior student in the School of Computer Science at Fudan University, China. He has been a research assistant in the Mobile Systems and Networking (MSN) group since 2019. He is proficient in c, c++, python, Matlab, latex and other programming languages and tools.
+# Welcome to Zihang Lin's Homepage!
+**Zihang Lin is a junior student in the School of Computer Science at Fudan University, China. He has been a research assistant in the Mobile Systems and Networking (MSN) group since 2019. He is proficient in c, c++, python, Matlab, latex and other programming languages and tools.**
 
 ## Research
+**His recent research focuses on structural hole theory and its application in computer science, such as the analysis of academic performance and cooperative relationship between structural hole scholars, opinion leaders,d and ordinary scholars.**
 
-## Publication
+## Publications
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Awards
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EZlzh/ezlzh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
