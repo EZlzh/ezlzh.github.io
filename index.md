@@ -13,8 +13,8 @@ His current research focuses on structural hole theory and its application in co
 
 ## Publications
 
-**Structural Hole Theory in Soical Network Analysis: A Review**
-Zihang Lin<sup>#</sup>, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.
+**Structural Hole Theory in Soical Network Analysis: A Review**<br>
+Zihang Lin<sup>#</sup>, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.<br>
 To appear: IEEE Transactions on Computational Social Systems (TCSS).
 
 (\* denotes corresponding author, <sup>#</sup> denotes co-first author)
