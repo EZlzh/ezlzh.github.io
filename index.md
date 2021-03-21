@@ -12,10 +12,10 @@ He previously helped develop an open source graph processing library [EasyGraph]
 His current research focuses on structural hole theory and its application in computer science, such as the analysis of academic performance and cooperative relationship between structural hole scholars and opinion leaders.
 
 ## Publications
-(\* denotes corresponding author, # denotes co-first author)
+(\* denotes corresponding author, <sub>#</sub> denotes co-first author)
 
 **Structural Hole Theory in Soical Network Analysis: A Review**
-Zihang Lin#, Yuwei Zhang#, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.
+Zihang Lin<sub>#</sub>, Yuwei Zhang<sub>#</sub>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.
 To appear: IEEE Transactions on Computational Social Systems (TCSS).
 
 ## Awards
