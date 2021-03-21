@@ -1,5 +1,5 @@
 ## Welcome to Zihang Lin's Homepage!
-Zihang Lin is a junior student in the School of Computer Science at Fudan University, China. He is proficient in c, c++, python, Matlab, and other programming languages and tools.
+Zihang Lin is a junior student in the School of Computer Science at Fudan University, China. He is proficient in c, c++, python, Matlab, and other programming languages and tools. His hobbies include climbing mountains, listening to music and meditation.
 
 Email:<zihanglin18@fudan.edu.cn>, <ezlzh101@gmail.com>
 
@@ -11,6 +11,8 @@ He previously helped develop an open source graph processing library [EasyGraph]
 
 
 His current research focuses on structural hole theory and its application in computer science, such as the analysis of academic performance and cooperative relationship between structural hole scholars and opinion leaders.
+
+
 
 ## Publications
 
