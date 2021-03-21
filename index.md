@@ -31,11 +31,11 @@ To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
 
 
 ## Awards
-- **<em>Second Prize</em>, Scholarship for Students in Honor Class,** 2020<br>
-- **<em>Third Prize</em>, Scholarship for OutStanding Students,** 2019<br>
-- **<em>Bronze Medal</em>, National Olympiad in Informatics, National Finals,** Jul. 2017<br>
-- **<em>Bronze Medal</em>, Asia Pacific Informatics Olympiad,** May 2017<br>
-- **<em>First Prize</em>, National Olympiad in Informatics in Provinces,** 2017<br>
+- <em>Second Prize</em>, Scholarship for Students in Honor Class, 2020<br>
+- <em>Third Prize</em>, Scholarship for OutStanding Students, 2019<br>
+- <em>Bronze Medal</em>, National Olympiad in Informatics, National Finals, Jul. 2017<br>
+- <em>Bronze Medal</em>, Asia Pacific Informatics Olympiad, May 2017<br>
+- <em>First Prize</em>, National Olympiad in Informatics in Provinces, 2017<br>
 
 
 ## Social Service
