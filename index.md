@@ -6,8 +6,8 @@ Email:<zihanglin18@fudan.edu.cn>, <ezlzh101@gmail.com>
 
 ## Education
 Fudan University, Shanghai, China        09/2018 - present<br>
-Undergraduate in Computer Science, Honor Class,
-Overall GPA: 3.65/4.0, Ranking: 6/95
+Undergraduate in Computer Science, Honor Class,<br>
+Overall GPA: 3.65/4.0, Ranking: 6/95<br>
 Advisor: [Prof. Yang Chen](https://chenyang03.wordpress.com/)
 
 ## Research
