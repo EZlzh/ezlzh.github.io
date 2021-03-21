@@ -6,7 +6,7 @@ Email:<zihanglin18@fudan.edu.cn>, <ezlzh101@gmail.com>
 
 ## Education
 - Fudan University, Shanghai, China
-09/2018 - present<br>
+(Sept. 2018 - present)<br>
 Undergraduate in Computer Science, Honor Class,<br>
 Overall GPA: 3.65/4.0, Ranking: 6/95<br>
 Advisor: [Prof. Yang Chen](https://chenyang03.wordpress.com/)
@@ -22,17 +22,17 @@ His current research focuses on structural hole theory and its application in co
 ## Publications
 
 **Structural Hole Theory in Soical Network Analysis: A Review**<br>
-Zihang Lin<sup>#</sup>, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.<br>
+**Zihang Lin<sup>#</sup>**, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.<br>
 To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
 (\* denotes corresponding author, <sup>#</sup> denotes co-first author)
 
 
 ## Awards
-<em>Second Prize</em>, Scholarship for Students in Honor Class, 2020<br>
-<em>Third Prize</em>, Scholarship for OutStanding Students, 2019<br>
-<em>Bronze Medal</em>, National Olympiad in Informatics, National Finals, Jul. 2017<br>
-<em>Bronze Medal</em>, Asia Pacific Informatics Olympiad, May 2017<br>
-<em>First Prize</em>, National Olympiad in Informatics in Provinces. 2017<br>
+**<em>Second Prize</em>, Scholarship for Students in Honor Class,** 2020<br>
+**<em>Third Prize</em>, Scholarship for OutStanding Students,** 2019<br>
+**<em>Bronze Medal</em>, National Olympiad in Informatics, National Finals,** Jul. 2017<br>
+**<em>Bronze Medal</em>, Asia Pacific Informatics Olympiad,** May 2017<br>
+**<em>First Prize</em>, National Olympiad in Informatics in Provinces,** 2017<br>
 
 
 ## Social Service
