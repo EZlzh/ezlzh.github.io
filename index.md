@@ -37,5 +37,5 @@ To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
 
 
 ## Social Service
-- Provide online academic guidance to the children of COVID-19 medical staff, Apr. 2020<br>
+- Provide online academic guidance to the children of COVID-19 medical staff in Wuhan, Apr. 2020<br>
 - Work as a social worker in a nursing home and chat with the elderly, Jan. 2018<br>
