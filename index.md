@@ -24,6 +24,7 @@ Advisor: [Prof. Yang Chen](https://chenyang03.wordpress.com/)
 - **Structural Hole Theory in Soical Network Analysis: A Review.**<br>
 **Zihang Lin<sup>#</sup>**, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.<br>
 To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
+
 (\* denotes corresponding author, <sup>#</sup> denotes co-first author)
 
 
