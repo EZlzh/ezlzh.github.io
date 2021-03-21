@@ -15,13 +15,13 @@ His current research focuses on structural hole theory and its application in co
 
 **Structural Hole Theory in Soical Network Analysis: A Review**<br>
 Zihang Lin<sup>#</sup>, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.<br>
-To appear: IEEE Transactions on Computational Social Systems (TCSS).
+To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
 
 (\* denotes corresponding author, <sup>#</sup> denotes co-first author)
 
 ## Awards
-Second Prize, Scholarship for Students in Honor Class, 2020
-Third Prize, Scholarship for OutStanding Students, 2019
-Bronze Medal, National Olympiad in Informatics, National Finals, Jul. 2017
-First Prize, National Olympiad in Informatics in Provinces. 2017
+Second Prize, Scholarship for Students in Honor Class, 2020<br>
+Third Prize, Scholarship for OutStanding Students, 2019<br>
+Bronze Medal, National Olympiad in Informatics, National Finals, Jul. 2017<br>
+First Prize, National Olympiad in Informatics in Provinces. 2017<br>
 
