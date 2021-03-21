@@ -1,19 +1,9 @@
-## Welcome to Zihang Lin's Homepage
+# Welcome to Zihang Lin's Homepage
+Zihang Lin is a junior student in the School of Computer Science at Fudan University, China. He has been a research assistant in the Mobile Systems and Networking (MSN) group since 2019. He is proficient in c, c++, python, Matlab, latex and other programming languages and tools.
 
-You can use the [editor on GitHub](https://github.com/EZlzh/ezlzh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## Publication
 
 - Bulleted
 - List
