@@ -21,13 +21,13 @@ Advisor: [Prof. Yang Chen](https://chenyang03.wordpress.com/)
 - His current research focuses on structural hole theory and its application in computer science, such as the analysis of academic performance and cooperative relationship between structural hole scholars and opinion leaders.
 
 
-## Publications
+## Publication
 
 - **Structural Hole Theory in Soical Network Analysis: A Review.**<br>
-**Zihang Lin<sup>#</sup>**, Yuwei Zhang<sup>#</sup>, Qingyuan Gong\*, Yang Chen\*, Atte Oksanen, Aaron Yi Ding.<br>
+**Zihang Lin<sup>#</sup>**, Yuwei Zhang<sup>#</sup>, Qingyuan Gong, Yang Chen, Atte Oksanen, Aaron Yi Ding.<br>
 To appear: IEEE Transactions on Computational Social Systems (TCSS).<br>
 
-(\* denotes corresponding author, <sup>#</sup> denotes co-first author)
+(<sup>#</sup> denotes co-first author)
 
 
 ## Awards
