@@ -3,6 +3,8 @@ Zihang Lin is a junior student in the School of Computer Science at Fudan Univer
 
 Email:<zihanglin18@fudan.edu.cn>, <ezlzh101@gmail.com>
 
+CV: [Zihang_Lin_CV](./files/Zihang_Lin_Resume.pdf)
+
 
 ## Education
 - Fudan University, Shanghai, China
