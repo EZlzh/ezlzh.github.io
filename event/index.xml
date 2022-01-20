@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Zihang Lin</title>
+    <link>https://ezlzh.github.io/event/</link>
+      <atom:link href="https://ezlzh.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Zihang Lin</copyright><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ezlzh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ezlzh.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Subreviewer of The Web Conf 2022 (WWW 2022), AAAI 2022 (2nd round), IJCAI 2021, Chinese CSCW 2021</title>
+      <link>https://ezlzh.github.io/talk/subreviewer-of-the-web-conf-2022-www-2022-aaai-2022-2nd-round-ijcai-2021-chinese-cscw-2021/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezlzh.github.io/talk/subreviewer-of-the-web-conf-2022-www-2022-aaai-2022-2nd-round-ijcai-2021-chinese-cscw-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Prize, Scholarship for Students in Honor Class</title>
+      <link>https://ezlzh.github.io/talk/second-prize-scholarship-for-students-in-honor-class/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ezlzh.github.io/talk/second-prize-scholarship-for-students-in-honor-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bronze Medal, National Olympiad in Informatics, National Finals (NOI Invitational)</title>
+      <link>https://ezlzh.github.io/talk/bronze-medal-national-olympiad-in-informatics-national-finals-noi-invitational/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://ezlzh.github.io/talk/bronze-medal-national-olympiad-in-informatics-national-finals-noi-invitational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bronze Medal, Asian &amp; Pacific Informatics Olympiad (APIO, China Division)</title>
+      <link>https://ezlzh.github.io/talk/bronze-medal-asian-pacific-informatics-olympiad-apio-china-division/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://ezlzh.github.io/talk/bronze-medal-asian-pacific-informatics-olympiad-apio-china-division/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Prize, National Olympiad in Informatics in Provinces (NOIP)</title>
+      <link>https://ezlzh.github.io/talk/first-prize-national-olympiad-in-informatics-in-provinces-noip/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://ezlzh.github.io/talk/first-prize-national-olympiad-in-informatics-in-provinces-noip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
