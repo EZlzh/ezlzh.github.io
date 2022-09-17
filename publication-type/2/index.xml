@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Zihang Lin</title>
-    <link>https://ezlzh.github.io/publication-type/2/</link>
-      <atom:link href="https://ezlzh.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Zihang Lin</copyright><lastBuildDate>Wed, 19 Jan 2022 02:52:52 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {Last Updated: Sept 2022} Zihang Lin</copyright><lastBuildDate>Wed, 01 Jun 2022 02:52:52 -0600</lastBuildDate>
     <image>
-      <url>https://ezlzh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://ezlzh.github.io/publication-type/2/</link>
+      <link>https://example.com/publication-type/2/</link>
     </image>
     
     <item>
       <title>Structural Hole Theory in Social Network Analysis: A Review</title>
-      <link>https://ezlzh.github.io/publication/shs/</link>
-      <pubDate>Wed, 19 Jan 2022 02:52:52 -0600</pubDate>
-      <guid>https://ezlzh.github.io/publication/shs/</guid>
+      <link>https://example.com/publication/shs/</link>
+      <pubDate>Wed, 01 Jun 2022 02:52:52 -0600</pubDate>
+      <guid>https://example.com/publication/shs/</guid>
       <description></description>
     </item>
     

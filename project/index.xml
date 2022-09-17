@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Zihang Lin</title>
-    <link>https://ezlzh.github.io/project/</link>
-      <atom:link href="https://ezlzh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2022} Zihang Lin</copyright><lastBuildDate>Wed, 19 Jan 2022 18:09:40 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {Last Updated: Sept 2022} Zihang Lin</copyright><lastBuildDate>Wed, 19 Jan 2022 18:09:40 -0600</lastBuildDate>
     <image>
-      <url>https://ezlzh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://ezlzh.github.io/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
-      <title>SciNet: A large-scale open data lake for the science of science</title>
-      <link>https://ezlzh.github.io/project/scinet/</link>
+      <title>Dual Frontiers: How prior scientific knowledge predicts tomorrow&#39;s technological breakthroughs</title>
+      <link>https://example.com/project/dualf/</link>
       <pubDate>Wed, 19 Jan 2022 18:09:40 -0600</pubDate>
-      <guid>https://ezlzh.github.io/project/scinet/</guid>
+      <guid>https://example.com/project/dualf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciSciNet: A Large-Scale Open Data Lake for the Science of Science Research</title>
+      <link>https://example.com/project/scinet/</link>
+      <pubDate>Wed, 19 Jan 2022 18:09:40 -0600</pubDate>
+      <guid>https://example.com/project/scinet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Analysis of Structural Hole Spanner Detection Methodologies in Coauthorship Networks</title>
-      <link>https://ezlzh.github.io/project/shsdmcn/</link>
+      <link>https://example.com/project/shsdmcn/</link>
       <pubDate>Wed, 19 Jan 2022 16:07:10 -0600</pubDate>
-      <guid>https://ezlzh.github.io/project/shsdmcn/</guid>
+      <guid>https://example.com/project/shsdmcn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review on Structural Hole Theory in Social Network Analysis</title>
-      <link>https://ezlzh.github.io/project/shs/</link>
+      <link>https://example.com/project/shs/</link>
       <pubDate>Wed, 19 Jan 2022 15:51:27 -0600</pubDate>
-      <guid>https://ezlzh.github.io/project/shs/</guid>
+      <guid>https://example.com/project/shs/</guid>
       <description></description>
     </item>
     
