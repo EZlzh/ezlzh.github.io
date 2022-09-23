@@ -5,7 +5,7 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {Last Updated: Sept 2022} Zihang Lin</copyright><lastBuildDate>Wed, 19 Jan 2022 18:09:40 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {Last Updated: Sept 2022} Zihang Lin</copyright><lastBuildDate>Tue, 19 Apr 2022 18:09:40 -0600</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Dual Frontiers: How prior scientific knowledge predicts tomorrow&#39;s technological breakthroughs</title>
+      <title>The Dual Frontier: How prior scientific knowledge predicts tomorrow&#39;s technological breakthroughs</title>
       <link>https://example.com/project/dualf/</link>
-      <pubDate>Wed, 19 Jan 2022 18:09:40 -0600</pubDate>
+      <pubDate>Tue, 19 Apr 2022 18:09:40 -0600</pubDate>
       <guid>https://example.com/project/dualf/</guid>
       <description></description>
     </item>
