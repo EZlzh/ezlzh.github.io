@@ -5,7 +5,7 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {Last Updated: Sept 2022} Zihang Lin</copyright><lastBuildDate>Fri, 19 Aug 2022 02:52:52 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {Last Updated: June 2023} Zihang Lin</copyright><lastBuildDate>Thu, 01 Jun 2023 02:52:52 -0600</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>SciSciNet: A Large-Scale Open Data Lake for the Science of Science Research</title>
       <link>https://example.com/publication/ssn/</link>
-      <pubDate>Fri, 19 Aug 2022 02:52:52 -0600</pubDate>
+      <pubDate>Thu, 01 Jun 2023 02:52:52 -0600</pubDate>
       <guid>https://example.com/publication/ssn/</guid>
       <description></description>
     </item>
